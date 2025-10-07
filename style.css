@@ -1,7 +1,6 @@
-
-   body {
-       background: ___________________;
-       color: navy;
+body {
+       background: rgb(0, 0, 153);
+       color: rgb(45, 45, 45);
        padding: 10px;
        font-family: arial;
    }
@@ -12,16 +11,15 @@
 
    /* navigation menu */
    nav {
-       background: ___________________;
-      margin: 0 auto;
-     margin-bottom: 20px;
+       background: rgb(50, 27, 125);
+      margin-bottom: 20px;
        display: flex;
        padding: 10px;
    }
    h1 {
        display: flex;
        align-items: center;
-       color: navy;
+       color: white;
        flex: 1;
        margin: 0;
    }
@@ -30,17 +28,16 @@
    }
    .nav-li {
        display: inline-block;
-     
        padding: 0 10px;
    }
    a {
        text-decoration: none;
-       color:navy;
+       color: #fff;
    }
 
    /* main container area beneath menu */
    main {
-       background: ___________________;
+       background: rgb(245, 238, 219);
        display: flex;
    }
    .sidebar {
@@ -57,9 +54,10 @@
 
    /* portfolio styles */
    #interests {
-       border: 3px gray solid;
+       border: 4px silver ridge;
        padding: 8px;
    }
    h2, h3 {
        margin: 0px;
-   }
+     color: rgb(50, 27, 125);
+}
