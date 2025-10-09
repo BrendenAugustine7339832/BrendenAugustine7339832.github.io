@@ -32,10 +32,12 @@ $(function () {
 
     // TODO 2 - Create Platforms
    createPlatform(350, 650, 250, 10)
-   createPlatform(600, 1200, 250, 10)
+   createPlatform(600, 120, 250, 10)
+   createPlatform(200, 250, 251, 10)
+   createPlatform(700, 550, 250, 10)
    createPlatform(600, 350, 250, 10)
-   createPlatform(600, 350, 250, 10)
-   createPlatform(600, 350, 250, 10)
+   createPlatform(400, 490, 250, 10)
+    createPlatform(200, 550, 100, 10)
     // TODO 3 - Create Collectables
 
 
