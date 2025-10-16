@@ -45,10 +45,11 @@ $(function () {
    createCollectable("grace",710,320)
    createCollectable("kennedi",900,510)
     // TODO 4 - Create Cannons
-
-
-    
-    
+   createCannon("bottom",670,600)
+   createCannon()
+   createCannon()  
+    createCannon()
+    createCannon()
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
